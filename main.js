@@ -123,3 +123,7 @@
 // let arr1 = [1, 2, 3];
 // let arr2 = [1, 2, 3];
 // console.log(arr1 == arr2);
+let a2=3;
+let b2=9;
+console.log(`Сложение a2 и b2: ${a2+b2}`)
+console.log(`умножение a2 и b2: ${a2*b2}`)
